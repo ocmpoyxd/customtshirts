@@ -1,6 +1,6 @@
-# [Creating contact forms with nodemailer and React](https://ciunkos.com/creating-contact-forms-with-nodemailer-and-react)
+# Creating contact forms with nodemailer and React
 
-This project is an example implementation of contact form rendering and server-side mail dispatching, powered by [nodemailer](https://nodemailer.com) and React.
+This project is an task for itransition courses, powered by [nodemailer](https://nodemailer.com) and React.
 
 [Please see full article here](https://ciunkos.com/creating-contact-forms-with-nodemailer-and-react).
 
