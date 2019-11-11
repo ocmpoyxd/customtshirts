@@ -1,8 +1,7 @@
-# Creating contact forms with nodemailer and React
+# Creating Customshirts  shop with nodemailer and React
 
 This project is an task for itransition courses, powered by [nodemailer](https://nodemailer.com) and React.
 
-[Please see full article here](https://ciunkos.com/creating-contact-forms-with-nodemailer-and-react).
 
 # Installation
 
