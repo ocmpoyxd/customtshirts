@@ -1,0 +1,24 @@
+.Comment {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.DateTime{
+    position: relative;
+    text-align: right;
+}
+.Comment p{
+    padding-left: 20px;
+    margin-bottom: 0px;
+}
+.Comment h4 {
+    margin-bottom: 0px;
+}
+
+.Likes label {
+top:0px;
+font-family: Arial, Helvetica, sans-serif;
+margin-right:5px ;
+}
+.Likes img {
+    width: 25px;
+}

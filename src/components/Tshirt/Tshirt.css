@@ -1,0 +1,58 @@
+
+#superblock {
+    width: 100%;
+    height:100%;
+    position:relative;
+    max-height: 411px;
+}
+
+.imgInTshirt {
+    width: 32%;
+    height: 30%;
+    top: 26%;
+    left: 33%;
+    position: absolute;
+    object-fit: scale-down;
+}
+#sizeSelector {
+    max-width: 155px;
+}
+.colorPalitre button{
+    border: none;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 1px solid #bebebe;
+    width: 30px;
+    height: 30px;
+    margin-right: 3px;
+    margin-bottom: 10px ;
+} 
+
+.red {
+    background-color: #ec1c24;
+}
+.green {
+    background-color: #0ed145;
+}
+.yellow {
+    background-color: #ffca18;
+}
+.blue {
+    background-color: #00a8f3;
+}
+.orange {
+    background-color: #ff7f27;
+}
+.white {
+    background-color: white;
+}
+
+.sizeRadios {
+    margin-bottom: 10px ;
+}
+#buyButton {
+    margin-top: 10px;
+}
